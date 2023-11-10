@@ -16,9 +16,9 @@
   2. 순서가 있는 목록
 
 -순서가 없는 목록
--대쉬(hyphen)
-+더하기(plus sign)
-*별표(asterisks)
+ -대쉬(hypen)
+ +더하기(plus sign)
+ *별표(asterisk)
 
 ### 링크(Links)
 [구글](http://www.google.com)   
