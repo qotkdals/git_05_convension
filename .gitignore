@@ -1,1 +1,24 @@
 a.txt
+[지은] [오후 4:36] # Created by https://www.toptal.com/developers/gitignore/api/windows,macos,visualstudiocode,eclipse,java,oracleforms
+# Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,visualstudiocode,eclipse,java,oracleforms
+
+### Eclipse ###
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# PyDev specific (Python IDE for Eclipse...
