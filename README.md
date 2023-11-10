@@ -27,4 +27,4 @@
 [네이버홈페이지]<http://www.naver.com>   
   
 ### 이미지 (Images)
-https://namu.wiki/w/%EA%B9%80%EB%AF%BC%EC%9E%AC(1979)
+![김민재](https://namu.wiki/w/%EA%B9%80%EB%AF%BC%EC%9E%AC(1979))
