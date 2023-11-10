@@ -15,7 +15,12 @@
 1. 순서가 있는 목록
 2. 순서가 있는 목록
 
--순서가 없는 목록 -대쉬(hypen) +더하기(plus sign) \*별표(asterisk)
+- 순서가 없는 목록
+- 대쉬(hypen)
+
+* 더하기(plus sign)
+
+- 별표(asterisk)
 
 ### 링크(Links)
 
@@ -30,4 +35,4 @@
 
 [![구글](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)](http://www.google.com)
 
-![가방].(/asset/google.jpg)
+![가방](./asset/google.jpg)
