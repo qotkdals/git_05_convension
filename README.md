@@ -23,4 +23,6 @@
 ### 링크(Links)
 [구글](http://www.google.com)
 [네이버](http://www.naver.com)
+[구글홈페이지](http://www.google.com)
+[네이버홈페이지](http://www.naver.com)
   
